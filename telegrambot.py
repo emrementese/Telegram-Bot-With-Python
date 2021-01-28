@@ -1,11 +1,8 @@
 import requests
 
-# url1 = "https://api.telegram.org/bot*/getMe "
-# url2 = "https://api.telegram.org/bot*/getUpdates"
-
 # if you don't know chat id and bot token, please read the createbot.txt file.
-bot_token = "your bot token"
-chat_id = "your chad id for bot "
+bot_token = "Your bot token"
+chat_id = "Your chat id"
 
 "-----------------------------------------------------------------------------------------------------------------------------"
 # Send a message.
@@ -43,5 +40,5 @@ with open(myfilepath, 'rb') as myfile:
     file = {'document': myfile}
     requests.post("https://api.telegram.org/bot" + bot_token +"/sendDocument?chat_id=" + chat_id ,files=file)
 
-
 "-----------------------------------------------------------------------------------------------------------------------------"
+#Thanks a read. Please give STAR :)
