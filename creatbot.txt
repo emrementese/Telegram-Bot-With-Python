@@ -1,1 +1,29 @@
+1- Firstly find the BotFather in Telegram chat;
+
+        BotFather
+
+2- Send message BotFather;
+
+        /newbot
+
+3- Name your bot;
+
+        @example
+
+4- Creat an user name for bot;
+
+        exampleBot
+
+5- BotFather will give Bot Token key. Save this key.
+
+6- you can designed bot wiht this command;
+
+        /mybots
+
+7- Now, you must start the bot. find the your bot and send message;
+
+        /start
+
+
+
 
