@@ -1,3 +1,6 @@
+'''
+Created by Emre MENTEŞE on 28.01.2021.
+'''
 import requests
 
 # if you don't know chat id and bot token, please read the createbot.txt file.
@@ -23,6 +26,13 @@ requests.post("https://api.telegram.org/bot" + bot_token +"/sendMessage?chat_id=
 
 message = '<a href="www.instagram.com/emre_mentese">My Profile</a>'
 requests.get("https://api.telegram.org/bot" + bot_token +"/sendMessage?chat_id=" + chat_id + "&parse_mode=HTML&disable_web_page_preview=true&text=" + message)
+
+"-----------------------------------------------------------------------------------------------------------------------------"
+# Send a Emoji
+
+# Find the utf code of the emoji you want to send. For example: 😉 --> '\U0001F609'
+message = '\U0001F609'
+requests.post("https://api.telegram.org/bot" + bot_token +"/sendMessage?chat_id=" + chat_id +"&text=" + message)
 
 "-----------------------------------------------------------------------------------------------------------------------------"
 # Send a image.
