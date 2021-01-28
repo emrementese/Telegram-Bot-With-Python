@@ -3,5 +3,5 @@ This repository about for Telegram bot with python. So, you must creat a new tel
 
 Thanks for read. 
 
-# LICENSE
+# License
 
