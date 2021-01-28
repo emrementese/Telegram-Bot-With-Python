@@ -24,6 +24,24 @@
 
         /start
 
+8- check a start mode for bot 
+
+        https://api.telegram.org/bot{token}/getMe
+        
+        For exampe: https://api.telegram.org/bot123456789/getMe
+
+9- Send message a bot and get a chat id;
+
+        https://api.telegram.org/bot{token}/getUpdates
+
+        For exampe: https://api.telegram.org/bot123456789/getUpdates
+
+10- So, you can start the use bot. Go to telegrambot.py file.
+
+Thanks for read.
+
+
+
 
 
 
