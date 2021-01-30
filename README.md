@@ -26,7 +26,7 @@ Version 3, 29 June 2007
 
 5- BotFather will give Bot Token key. Save this key.
 
-6- you can designed bot wiht this command;
+6- you can designed bot with this command;
 
         /mybots
 
