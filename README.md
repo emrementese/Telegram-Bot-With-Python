@@ -4,8 +4,8 @@ This repository about for Telegram bot with python. So, you must creat a new tel
 Thanks for read. 
 
 # Licance
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+        GNU GENERAL PUBLIC LICENSE
+        Version 3, 29 June 2007
 
 # Create an Bot
 1- Firstly find the BotFather in Telegram chat;
