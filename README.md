@@ -2,13 +2,13 @@
 This repository about for Telegram bot with python. So, you must creat a new telegram bot. That's why please read the creatbot.txt file. All operations use to with requests module.
 
 Thanks for read. 
-[Creat a Bot](#Create-an-Bot)
+[Creat a Bot](#Create-a-Bot)
 
 # Licance
         GNU GENERAL PUBLIC LICENSE
         Version 3, 29 June 2007
 
-# Create an Bot
+# Create a Bot
 1- Firstly find the BotFather in Telegram chat;
 
         BotFather
