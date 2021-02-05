@@ -3,6 +3,8 @@ This repository about for Telegram bot with python. So, you must creat a new tel
 
 Thanks for read. 
 
+-[Creat a Bot](#Create-an-Bot)
+
 # Licance
         GNU GENERAL PUBLIC LICENSE
         Version 3, 29 June 2007
