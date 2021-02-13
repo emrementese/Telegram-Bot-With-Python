@@ -25,7 +25,7 @@ Thanks for read.
 
         exampleBot
 
-5- BotFather will give Bot Token key. Save this key.
+5- BotFather will give `Bot Token` key. Save this key.
 
 6- you can designed bot with this command;
 
