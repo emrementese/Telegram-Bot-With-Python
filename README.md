@@ -1,5 +1,5 @@
 # Basic Telegram Bot With Python
-This repository about for Telegram bot with python. So, you must creat a new telegram bot. That's why please read the creatbot.txt file. All operations use to with requests module.
+This repository about for Telegram bot with python. İf you don't have a bot,  you must creat a new telegram bot. That's why please read the creatbot.txt file or README.md. All operations use to with requests module.
 
 Thanks for read. 
 [Creat a Bot](#Create-a-Bot)
