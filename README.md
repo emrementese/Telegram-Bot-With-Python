@@ -41,7 +41,7 @@ Thanks for read.
         
         For exampe: https://api.telegram.org/bot123456789/getMe
 
-9- Send message a bot and get a __chatid__;
+9- Send message a bot and get a _chatid;
 
         https://api.telegram.org/bot{token}/getUpdates
 
