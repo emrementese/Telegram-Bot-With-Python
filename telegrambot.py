@@ -20,7 +20,7 @@ message = "Hello World !"
 requests.post("https://api.telegram.org/bot" + bot_token +"/sendMessage?chat_id=" + chat_id +"&text=" + message)
 
 "-----------------------------------------------------------------------------------------------------------------------------"
-# Send a hyperlink and text.
+# Send a HTML, Hyperlink and Text.
 
 #For example https://www.google.com --> Google | www.instagram.com/emre_mentese  --> myprofile
 
