@@ -1,5 +1,5 @@
 # Basic Telegram Bot With Python
-This repository about for Telegram bot with python. İf you don't have a bot,  you must creat a new telegram bot. That's why please read the creatbot.txt file or README.md .All operations use to with requests module. You can send `message`, `emoji`, `hyperlink`, `url`, `image`, `Text` and `file` with python.
+This repository about for Telegram bot with python. İf you don't have a bot,  you must creat a new telegram bot. That's why please read the creatbot.txt file or README.md .All operations use to with requests module. You can send `Message`,`HTML`, `Emoji`, `Hyperlink`, `Url`, `Image`, `Text` and `File` with python.
 
 Thanks for read.
 
