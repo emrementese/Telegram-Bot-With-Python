@@ -9,7 +9,7 @@ Thanks for read.
 
 [More information to Telegram Bots](https://core.telegram.org/bots)
 
-[Bot Code Examples diffrent language](https://core.telegram.org/bots/samples)
+[Bot Code Examples with diffrent language](https://core.telegram.org/bots/samples)
 
 # Licance
         GNU GENERAL PUBLIC LICENSE
